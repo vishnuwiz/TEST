@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'VISHNU CS',
+			text: 'FLOATSYS GLOBAL INC.',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
