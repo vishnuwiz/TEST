@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'JASMY TOMMY',
+			text: 'SANDHYA PRADEEP',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
